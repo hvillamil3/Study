@@ -4,5 +4,5 @@ Where I study different models.
 SELECt * 
 FROM myfav_table AS hello
 WHERE  g> 0
-
+--group by 
 ```
